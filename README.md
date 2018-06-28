@@ -77,6 +77,8 @@ with
 
 in /etc/dbus-1/session.conf.
 
+This fix might not be needed if the file /etc/dbus-1/session.conf does not exist.
+
 ## Fix connection refused
 
 You need to replace
@@ -93,6 +95,8 @@ with
 ```
 
 in /etc/dbus-1/session.conf.
+
+This fix might not be needed if the file /etc/dbus-1/session.conf does not exist.
 
 ## Open display server
 
