@@ -100,6 +100,8 @@ This fix might not be needed if the file /etc/dbus-1/session.conf does not exist
 
 ## Open display server
 
+Install [XLaunch](https://sourceforge.net/projects/xming/) for Windows.
+
 Open **XLaunch**, choose “One large window” or “One large window without titlebar” and set the “display number” to 0.
 Other settings leave as default and finish the configuration.
 
