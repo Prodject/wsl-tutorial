@@ -31,11 +31,13 @@ In order to run Bash on Windows, you will need to manually:
 
 #### 2.Install Ubuntu from Microsoft Store
 
+After you have accepted the License, the Ubuntu user-mode image will be downloaded and a “Bash on Ubuntu on Windows” shortcut will be added to your start menu.
+
 #### 3.Run bash
 
 ![bash](pictures/bash.png "bash")
 
-After you have accepted the License, the Ubuntu user-mode image will be downloaded and a “Bash on Ubuntu on Windows” shortcut will be added to your start menu.
+Create username and password for the default UNIX user account.
 
 ## Install VcXsrv
 
