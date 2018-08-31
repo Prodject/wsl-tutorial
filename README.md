@@ -29,7 +29,9 @@ In order to run Bash on Windows, you will need to manually:
 
 #### 1.Restart your computer
 
-#### 2.Run bash
+#### 2.Install Ubuntu from Microsoft Store
+
+#### 3.Run bash
 
 ![bash](pictures/bash.png "bash")
 
